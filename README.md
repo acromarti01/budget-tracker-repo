@@ -6,6 +6,11 @@
 
 The projects allows the user to add expenses and deposits to their budget with or without a connection.
 
+## ScreenShot
+
+![Image](./images/screenshot.png)
+![Image](./images/screenshot2.png)
+
 ## Table of Contents
 
 - [Technologies](#technologies)
@@ -23,7 +28,7 @@ The projects allows the user to add expenses and deposits to their budget with o
     <li>CSS</li>
     <li>JavaScript</li>    
     <li>Mongo</li>
-    <li>Mongoose<li>
+    <li>Mongoose</li>
     <li>Node</li>
 </ul>
 
