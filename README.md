@@ -35,6 +35,10 @@ To install dependecies in the terminal use npm install
 
 To run the application use node server.js
 
+## License
+
+Licensed under the <a href="./LICENSE.txt">MIT License</a>
+
 
 
 
