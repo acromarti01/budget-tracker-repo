@@ -31,6 +31,10 @@ The projects allows the user to add expenses and deposits to their budget with o
 
 To install dependecies in the terminal use npm install
 
+## Usage
+
+To run the application use node server.js
+
 
 
 
