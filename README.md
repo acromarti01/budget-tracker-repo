@@ -39,6 +39,10 @@ To run the application use node server.js
 
 Licensed under the <a href="./LICENSE.txt">MIT License</a>
 
+## Contributing
+
+This project follows the Fork and Pull Git workflow guidlines
+
 
 
 
