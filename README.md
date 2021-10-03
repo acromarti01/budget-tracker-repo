@@ -27,6 +27,10 @@ The projects allows the user to add expenses and deposits to their budget with o
     <li>Node</li>
 </ul>
 
+## Installation
+
+To install dependecies in the terminal use npm install
+
 
 
 
