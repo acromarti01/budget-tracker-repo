@@ -1,10 +1,11 @@
 let db;
 
-// create a new db request for a "BudgetDB" database.
 const request = indexedDB.open("budgetTrackerDB");
 
 request.onupgradeneeded = function (event) {
   // create object store called "BudgetStore" and set autoIncrement to true
+  db = event.target.result;
+  db.createObjectStore('BudgetStore', { autoIncrement: true });
 };
 
 request.onsuccess = function (event) {
