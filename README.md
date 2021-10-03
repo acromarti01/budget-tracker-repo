@@ -16,6 +16,17 @@ The projects allows the user to add expenses and deposits to their budget with o
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Technologies
+
+<ul>
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>JavaScript</li>    
+    <li>Mongo</li>
+    <li>Mongoose<li>
+    <li>Node</li>
+</ul>
+
 
 
 
